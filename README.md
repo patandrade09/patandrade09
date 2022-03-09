@@ -1,10 +1,9 @@
 ### Olá, seja bem vinda/o ao meu GitHub! 👋
 
 
-- 🌱 Estou aprendendo React.js
-- 💛 Estudante de Desenvolvimento Web Fullstack na Resilia Educação
+- 🌱 Estou aprendendo Python
+- 💛 Resiliente - Desenvolvimento Web Fullstack na Resilia Educação
 - 👩‍💻 Descobrindo o mundo da programação e em busca de aprender novas linguagens.
-- 👶 Em busca da primeira oportunidade como WebDev.
 - 👩‍🎓 Também sou: contadora/auditora. 
 
 <div align="center">
