@@ -1,7 +1,7 @@
 ### Olá, seja bem vinda/o ao meu GitHub! 👋
 
 
-- 🌱 Estou aprendendo Python e C#
+- 🌱 Estou aprendendo Python
 - 💛 Resiliente - Desenvolvimento Web Fullstack na Resilia Educação
 - 👩‍💻 Descobrindo o mundo da programação e em busca de aprender novas linguagens.
 - 👩‍🎓 Também sou: contadora/auditora. 
