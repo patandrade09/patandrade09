@@ -2,9 +2,7 @@
 
 
 - 🌱 Estou aprendendo Python e C#
-- 💛 Resiliente - Desenvolvimento Web Fullstack na Resilia Educação
-- 👩‍💻 Descobrindo o mundo da programação e em busca de aprender novas linguagens.
-- 👩‍🎓 Também sou: contadora/auditora. 
+- 💛 Software Developer
 
 <div align="center">
   <a href="https://github.com/patandrade09">
