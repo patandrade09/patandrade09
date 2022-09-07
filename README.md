@@ -1,7 +1,7 @@
 ### Welcome to my GitHub! 👋
 
 
-- I use Python and Javascript
+- Python and Javascript
 - Software Developer Jr.
 
 <div align="center">
