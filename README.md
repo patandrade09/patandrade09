@@ -1,8 +1,8 @@
-### Olá, seja bem vinda/o ao meu GitHub! 👋
+### Welcome to my GitHub! 👋
 
 
-- 🌱 Estou aprendendo Python e C#
-- 💛 Software Developer
+- I use Python and Javascript
+- Software Developer Jr.
 
 <div align="center">
   <a href="https://github.com/patandrade09">
