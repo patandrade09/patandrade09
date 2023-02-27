@@ -1,7 +1,7 @@
 ### Welcome to my GitHub! 👋
 
 
-- Python and Javascript
+- Python and TypeScript
 - Software Developer Jr.
 
 <div align="center">
