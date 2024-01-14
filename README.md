@@ -1,8 +1,9 @@
 ### Welcome to my GitHub! 👋
 
-- Python and TypeScript
-- Software Developer
+- Front-end Developer
+- HTML5 | CSS3 | TypeScript | React.js | React Native
 - IT Student at UNIVESP - BR
+
  
 
  
