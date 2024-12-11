@@ -2,7 +2,7 @@
 
 - Front-end Developer
 - HTML5 | CSS3 | TypeScript | React.js | React Native
-- IT Student at UNIVESP - BR
+- IT Student at Universidade Federal Fluminense (UFF) - BR
 
  
 
